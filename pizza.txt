@@ -3,6 +3,7 @@ Dough
 sauce
 pineapple
 mushrooms
+broccoli
 
 ** Procedure **
 1. Buy ingredients from the store
