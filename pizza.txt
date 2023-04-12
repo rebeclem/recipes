@@ -5,8 +5,8 @@ pineapple
 mushrooms
 
 ** Procedure **
-0. Buy ingredients from the store
-1. Heat the oven to 400
-2. Spread the dough across the pizza
-3. Put on toppings
-4. Cook for 15 minutes or until your preferred doneness
+1. Buy ingredients from the store
+2. Heat the oven to 400
+3. Spread the dough across the pizza
+4. Put on toppings
+5. Cook for 15 minutes or until your preferred doneness
