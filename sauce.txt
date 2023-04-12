@@ -3,3 +3,9 @@ tomatoes
 garlic
 basil
 oregano
+olive oil
+
+Directions
+1. First heat the garlic in olive oil
+2. Add the tomatoes and boil for ten minutes
+3. Add the basil and oregano and let sit overnight 
